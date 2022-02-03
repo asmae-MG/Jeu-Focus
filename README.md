@@ -2,10 +2,10 @@
 Le jeu Focus est un jeu de stratégie. Il a été créer par Sid Sackson en 1964. Nous avons besoin de deux joueurs ( le jeu original on peut avoir jusqu'à quatre personnes). 
 
 Le jeu se compose :
-— d’un plateau de trente-six cases 
-— 18 pions rouges
-— 18 pions verts 
-
+- d’un plateau de trente-six cases 
+- de 18 pions rouges
+- de 18 pions verts 
+![alt text](https://github.com/asmae-MG/Jeu-Focus/blob/main/CMD.png)
 # Règle du jeu 
 1. Les déplacements ne peuvent pas être diagonaux.
 2. La longueur d’un déplacement  ́est  ́égale au nombre de pièces s ́electionnees 
