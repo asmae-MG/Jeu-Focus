@@ -17,7 +17,7 @@ Le jeu se compose:
 Retirées définitivement du jeu.
 # JavaDoc
 
-- ![Class Case](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Case.png)
+- ![ClassCase](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Case.png)
 - ![Class JeuFocus](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/JeuFocus.png)
 
 - ![Class Joueur](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Joueur.png)
