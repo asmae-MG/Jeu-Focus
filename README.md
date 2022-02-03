@@ -6,7 +6,7 @@ Le jeu se compose:
 - de 18 pions rouges
 - de 18 pions verts 
 ![alt text](https://github.com/asmae-MG/Jeu-Focus/blob/main/CMD.png)
-# Règle du jeu 
+# Règles du jeu 
 1. Les déplacements ne peuvent pas être diagonaux.
 2. La longueur d’un déplacement est égale au nombre de pièces selectionnées 
 3. La sous pile extraite  sera posé telle quelle sur la pile figurant dans la case cible choisie.
@@ -15,3 +15,11 @@ Le jeu se compose:
 - les pieces retirées appartenant au joueur courant sont mis en reserve 
 - les pieces retirées appartenant à l’adversaire du joueur courant sont 
 Retirées définitivement du jeu.
+# JavaDoc
+
+![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Case.png)
+![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/JeuFocus.png)
+
+![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Joueur.png)
+![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Pion.png)
+![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/plateau.png)
