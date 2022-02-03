@@ -17,9 +17,9 @@ Le jeu se compose:
 Retirées définitivement du jeu.
 # JavaDoc
 
-![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Case.png)
-![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/JeuFocus.png)
+- ![Class Case](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Case.png)
+- ![Class JeuFocus](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/JeuFocus.png)
 
-![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Joueur.png)
-![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Pion.png)
-![alt text](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/plateau.png)
+- ![Class Joueur](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Joueur.png)
+- ![Class Pion](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/Pion.png)
+- ![CLass plateau](https://github.com/asmae-MG/Jeu-Focus/tree/main/Assets/plateau.png)
